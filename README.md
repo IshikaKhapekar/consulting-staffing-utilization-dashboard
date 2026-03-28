@@ -371,6 +371,7 @@ Column Chart, Scatter Chart, Table, Slicer
 ## 👤 Author
 
 **Ishika Khapekar**
+
 Aspiring Data Analyst  
 https://www.linkedin.com/in/ishika-khapekar-a068182ab
 
